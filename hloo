@@ -1,0 +1,31 @@
+
+#	Feature	Kya Karta Hai	Time to Add
+1	Time Tracking	Task par timer start/stop, logged hours	3-4 hours
+2	Billing/Stripe	Subscription plans (Free/Pro/Enterprise)	4-5 hours
+3	Custom Domain (White Label)	Client apna domain use kare (task.theircompany.com)	3-4 hours
+4	Slack Integration	Task create par Slack notification	2-3 hours
+5	Webhooks	External systems ko events bhejo	2-3 hours
+6	Bulk Actions	10 tasks ek saath select karke change	2-3 hours
+🟡 Medium Priority Missing (Nice to Have)
+#	Feature	Kya Karta Hai	Time to Add
+7	Export to CSV/Excel	Tasks export karo	1-2 hours
+8	Import from CSV	Bulk tasks import	2-3 hours
+9	Gantt Chart View	Timeline visualization	4-5 hours
+10	Calendar View	Due dates calendar mein	3-4 hours
+11	Table View	Tasks table format mein	2-3 hours
+12	Global Search (Real)	Cmd+K se poore app mein search	3-4 hours
+13	Email Notifications	Task assign/comments par email	2-3 hours
+14	API Keys	User apni API key generate kare	2-3 hours
+15	Rate Limit per User	IP ki jagah user-based	1 hour
+🟢 Low Priority Missing (Polish)
+#	Feature	Kya Karta Hai	Time to Add
+16	Keyboard Shortcuts	G+D (dashboard), C (create)	2 hours
+17	Task Templates	Reusable task templates	2-3 hours
+18	Archive Projects	Archive karo (delete nahi)	1 hour (already partial)
+19	Trash/Recycle Bin	Deleted items restore	2-3 hours
+20	Mobile App (React Native)	iOS/Android app	2-3 weeks
+21	Two-Way Google Calendar Sync	Calendar sync	4-5 hours
+22	Zapier Integration	Zapier support	3-4 hours
+23	Email Templates	Custom email branding	2 hours
+24	Onboarding Tour	New user walkthrough	2-3 hours
+25	Feedback Widget	User feedback collect	1-2 
